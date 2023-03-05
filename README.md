@@ -1,2 +1,2 @@
 # Razorpay_Clone
-Created Razorpay Clone using HTML and Tailwind CSS
+Created Razorpay UI Clone using HTML and Tailwind CSS
