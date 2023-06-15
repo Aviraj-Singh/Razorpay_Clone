@@ -26,7 +26,7 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/Aviraj-Singh/Razorpay_Clone.git
 ```
 
-1.Navigate to the project directory:
+2. Navigate to the project directory:
 ```
 cd Razorpay_Clone
 ```
