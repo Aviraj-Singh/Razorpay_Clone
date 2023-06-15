@@ -23,12 +23,12 @@ and learn how to implement similar UI components in their own applications.
 
 Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/razorpay-clone-ui.git
+git clone https://github.com/Aviraj-Singh/Razorpay_Clone.git
 ```
 
 1.Navigate to the project directory:
 ```
-cd razorpay-clone-ui
+cd Razorpay_Clone
 ```
 
 3. Open the project in your preferred code editor.
