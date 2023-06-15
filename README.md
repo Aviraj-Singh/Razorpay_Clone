@@ -8,7 +8,7 @@ and learn how to implement similar UI components in their own applications.
 
 **Responsive Design:** The UI is built with a mobile-first approach, ensuring a seamless experience across various devices and screen sizes.
 **Reusable Components:** Utilize Tailwind CSS's utility classes and pre-built components to create consistent and reusable UI elements.
-**Felx Grid System:** Leverage the flex and grid system provided by Tailwind CSS to create a responsive and flexible layout.
+**Flex and Grid System:** Leverage the flex and grid system provided by Tailwind CSS to create a responsive and flexible layout.
 **Custom Styling:** Apply custom styles to match the design of Razorpay or modify the existing styles to suit your project requirements.
 
 ## `Technologies Used`
